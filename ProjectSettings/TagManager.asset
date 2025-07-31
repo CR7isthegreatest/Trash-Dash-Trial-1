@@ -5,11 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstacle
+  - Sheep
+  - Chicken
+  - Pig
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - camera
   - Water
   - UI
   - 
