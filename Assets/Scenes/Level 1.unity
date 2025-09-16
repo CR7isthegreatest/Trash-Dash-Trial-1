@@ -20752,6 +20752,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b5ee18949c6f3241a7ee28addc46095, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  requiredPlasticBottles: 15
   gameManager: {fileID: 1647755434}
 --- !u!65 &508026287
 BoxCollider:
@@ -34289,7 +34290,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -649.5167, y: 518.3644}
+  m_AnchoredPosition: {x: -649.5167, y: 445}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &845084624
@@ -88744,7 +88745,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -892.19336, y: 529.0707}
+  m_AnchoredPosition: {x: -892.19336, y: 459}
   m_SizeDelta: {x: 275.9495, y: 77.5156}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2042772401
@@ -93186,11 +93187,11 @@ SceneRoots:
   - {fileID: 1115529155}
   - {fileID: 1642844321}
   - {fileID: 104780521}
-  - {fileID: 508026290}
-  - {fileID: 37339391}
   - {fileID: 2038183144}
   - {fileID: 736093465}
   - {fileID: 1518549878}
+  - {fileID: 37339391}
+  - {fileID: 508026290}
   - {fileID: 1965298361}
   - {fileID: 979289244}
   - {fileID: 680786821}
